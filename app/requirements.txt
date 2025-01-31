@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+nltk
+textblob
+matplotlib
+seaborn
+app_store_scraper
